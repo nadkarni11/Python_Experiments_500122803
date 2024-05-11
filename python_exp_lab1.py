@@ -23,11 +23,11 @@ print(x)
 
 '''4. take different types of datatypes and print them using print() function'''
 
-integer=10 #int data type
-float=10.5 #float data type
-list=['Hello i am learning python'] #list data type
-string= "Hello" #string data type
-boolean= True #boolean data type
+integer=10 
+float=10.5 
+list=['Hello i am learning python'] 
+string= "Hello" 
+boolean= True 
 print(integer)
 print(float)
 print(list)
